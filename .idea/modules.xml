@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Course1/Sprint1/BEJ_C1_S1_Maven_Structure_MC_1_Calculator/BEJ_C1_S1_Maven_Structure_MC_1_Calculator.iml" filepath="$PROJECT_DIR$/Course1/Sprint1/BEJ_C1_S1_Maven_Structure_MC_1_Calculator/BEJ_C1_S1_Maven_Structure_MC_1_Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course1/Sprint1/BEJ_C1_S1_Maven_Structure_PC_1_Fibonacci/BEJ_C1_S1_Maven_Structure_PC_1_Fibonacci.iml" filepath="$PROJECT_DIR$/Course1/Sprint1/BEJ_C1_S1_Maven_Structure_PC_1_Fibonacci/BEJ_C1_S1_Maven_Structure_PC_1_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Back-End.iml" filepath="$PROJECT_DIR$/.idea/Back-End.iml" />
+    </modules>
+  </component>
+</project>
